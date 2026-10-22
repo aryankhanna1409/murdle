@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Murdle: Murder in Hollywood
+<img src="assets/banner.svg" width="100%" alt="Murdle: A terminal whodunit with an insufferable AI assistant" />
 
 **A terminal whodunit where your AI assistant knows the answer and is insufferable about it.**
 
