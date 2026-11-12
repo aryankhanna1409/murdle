@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Murdle: A terminal whodunit with an insufferable AI assistant" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" /><img src="assets/banner.svg" width="100%" alt="Murdle: A terminal whodunit with an insufferable AI assistant" /></picture>
 
 **A terminal whodunit where your AI assistant knows the answer and is insufferable about it.**
 
@@ -68,7 +68,7 @@ You can change `DIFFICULTY` (default `medium`) in `config.py` to adjust how gene
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" /></picture>
 
 Uses the ChatGPT API as-is, with no custom-trained model · just prompt design
 
