@@ -4,15 +4,15 @@
 
 **A terminal whodunit where your AI assistant knows the answer and is insufferable about it.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-gpt--3.5--turbo-412991?style=flat-square&logo=openai&logoColor=white)
-![CLI](https://img.shields.io/badge/Interface-terminal-black?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3b2416?style=flat-square&logo=python&logoColor=efdfc4)
+![OpenAI](https://img.shields.io/badge/OpenAI-gpt--3.5--turbo-8a5a22?style=flat-square&logo=openai&labelColor=1d120b&logoColor=efdfc4)
+![CLI](https://img.shields.io/badge/Interface-terminal-8a5a22?style=flat-square&labelColor=1d120b)
 
 </div>
 
 ---
 
-## 🕵️ The game
+## The game
 
 A murder has happened on a Hollywood set. You are the detective, and your assistant **Clarence** knows who did it. He just won't say it plainly.
 
@@ -28,7 +28,7 @@ Clues are generated live by OpenAI's `gpt-3.5-turbo` from a prompt that gives Cl
 
 ---
 
-## 🚀 Quick start
+## Quick start
 
 ```bash
 git clone https://github.com/aryankhanna1409/murdle.git
@@ -55,7 +55,7 @@ You can change `DIFFICULTY` (default `medium`) in `config.py` to adjust how gene
 
 ---
 
-## 📁 Project layout
+## Project layout
 
 | File | Role |
 |---|---|
@@ -68,6 +68,10 @@ You can change `DIFFICULTY` (default `medium`) in `config.py` to adjust how gene
 
 <div align="center">
 
+<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+
 Uses the ChatGPT API as-is, with no custom-trained model · just prompt design
+
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
 </div>
